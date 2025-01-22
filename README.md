@@ -43,10 +43,13 @@ Pandas: For data manipulation and preprocessing.
 Matplotlib/Plotly: For data visualization.
 
 Finance-Specific Data: Designed to process and display key financial metrics effectively.
-Purpose
 
+
+## Purpose
 This application bridges the gap between financial data and actionable insights, empowering users to:
 
 Analyze financial trends with clarity.
+
 Improve decision-making processes with robust visual tools.
+
 Leverage financial analytics for reporting and presentations.
